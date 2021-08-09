@@ -1,0 +1,2 @@
+# StockTickerWidget
+Stock Ticker Widget
